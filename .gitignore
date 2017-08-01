@@ -1,0 +1,14 @@
+*.o
+GTAGS
+GRTAGS
+GPATH
+a.out
+grammar.h
+lexer.h
+cc1
+c_grammar.tab.c
+lex.yy.c
+.*.mkdep
+uuc
+*.dot
+*.output
